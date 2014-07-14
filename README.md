@@ -8,6 +8,7 @@ and deliverables needed to be submitted. You should read it carefully before you
 the assessment.
 
 <b>Requirements</b></br>
+
 We are always searching for professionals with very good comportamental skills and ongoing relationship. We prioritize hard teamwork skills. So, we
 will prefer the Ruby and Java languages, that are present at most of ours clients. Therefore, we will consider your solution, even if we don't have
 demand for that special skill.
